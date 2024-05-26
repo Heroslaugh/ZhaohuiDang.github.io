@@ -3,7 +3,7 @@
 title: 党兆晖
 
 # Name pronunciation (optional)
-name_pronunciation: Dang Zhaohui
+name_pronunciation: DangZhaohui
 
 # Full name (for SEO)
 first_name: Zhaohui
@@ -66,7 +66,7 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.6/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
