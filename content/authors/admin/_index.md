@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 党兆晖
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Dang Zhaohui
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhaohui
+last_name: Dang
 
 # Status emoji
 status:
